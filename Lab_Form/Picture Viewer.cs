@@ -35,7 +35,6 @@ namespace Lab_Form
                     picture.pictureBox1.Image = this.imageList1.Images[imgIndex];
                                           //pictureBox1.Image = this.imageList1.Images[imgIndex];
                     picture.ShowDialog(); //show出picture表單
-
                 }
             }
         }
