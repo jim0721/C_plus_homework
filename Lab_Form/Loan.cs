@@ -58,8 +58,6 @@ namespace Lab_Form
             report.textBox4.Text = Math.Round(month_price).ToString();
             report.textBox5.Text = Math.Round(total).ToString(); ;
             report.ShowDialog();
-            
-
         }
 
         private void Loan_Load(object sender, EventArgs e)
