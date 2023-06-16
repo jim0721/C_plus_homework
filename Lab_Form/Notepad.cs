@@ -16,5 +16,9 @@ namespace Lab_Form
         {
             InitializeComponent();
         }
+         private void Notepad_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
