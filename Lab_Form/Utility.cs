@@ -30,7 +30,6 @@ namespace Lab_Form
             Method01();
             Method02();
         }
-
     }
 
     public class Member
