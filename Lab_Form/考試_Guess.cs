@@ -68,7 +68,6 @@ namespace Lab_Form
             min = 0;
             max = 100;
             ans = rnd.Next(100);
-        }
- 
+        } 
     }
 }
