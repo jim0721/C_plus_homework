@@ -15,13 +15,12 @@ namespace Lab_Form
         public Screen_Saver()
         {
             InitializeComponent();
-            this.Bounds = Bounds;
+            
         }
 
         private void Screen_Saver_Load(object sender, EventArgs e)
         {
-            Cursor.Hide();
-            TopMost = true;
+          
         }
 
 
