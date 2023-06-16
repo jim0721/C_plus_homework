@@ -71,5 +71,4 @@ namespace Lab_Form
         public string Name;
         public decimal UnitPrice;
     }
-
 }
