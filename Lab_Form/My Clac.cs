@@ -18,16 +18,6 @@ namespace Lab_Form
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             Double Num1 = Double.Parse(textBox1.Text);
@@ -62,12 +52,6 @@ namespace Lab_Form
                 Double sum = Num1 / Num2;
                 textBox3.Text = sum.ToString();
             }  
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
