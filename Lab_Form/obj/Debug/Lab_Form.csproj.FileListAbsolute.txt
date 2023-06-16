@@ -1,0 +1,70 @@
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\bin\Debug\Lab_Form.exe.config
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\bin\Debug\Lab_Form.exe
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\bin\Debug\Lab_Form.pdb
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Properties.Resources.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.exe
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.pdb
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M02_HelloForm.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M04.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M08.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M12.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M15_CTS.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M16_參數.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M18_enum.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M19_struct.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M21.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M24_loop.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M26_Array.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M28_進階方法.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M29_傳統集合ArrayList.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M30_泛用集合List.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M32_string.resources
+C:\Users\User\Desktop\Lab_Csharp\Lab_Form\obj\Debug\Lab_Form.Frm_M34_ReadWrite.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.csproj.AssemblyReference.cache
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.exe
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.pdb
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\bin\Debug\Lab_Form.exe.config
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\bin\Debug\Lab_Form.exe
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\bin\Debug\Lab_Form.pdb
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.For_Do_While.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M02_HelloForm.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M04.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M08.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M12.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M15_CTS.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M16_參數.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M18_enum.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M19_struct.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M21.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M24_loop.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M26_Array.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M28_進階方法.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M29_傳統集合ArrayList.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M30_泛用集合List.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M32_string.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Frm_M34_ReadWrite.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Hello.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Loan.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Method.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.My_Clac.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.POS.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Properties.Resources.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Students_Grade.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Students_Grade_List.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Student_Struct_Form.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.XO_Game.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.小畫家.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.考試_Alarm.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.考試_Guess.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.csproj.GenerateResource.cache
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.csproj.CoreCompileInputs.cache
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Picture_Viewer.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Picture.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Screen_Saver.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Loan_Report.resources
+C:\Users\PCUser\Desktop\Lab_Csharp Homework\Lab_Form\obj\Debug\Lab_Form.Homepage.resources
