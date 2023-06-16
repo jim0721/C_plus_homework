@@ -22,8 +22,5 @@ namespace Lab_Form
         {
           
         }
-
-
-
     }
 }
