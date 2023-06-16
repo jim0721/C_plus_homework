@@ -242,6 +242,5 @@ namespace Lab_Form
                 rows.Add(record);
             }
         }
-
     }
 }
