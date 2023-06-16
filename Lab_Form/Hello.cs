@@ -31,12 +31,5 @@ namespace Lab_Form
                            ",\n性別是" + textBox3.Text +
                            ",\n星座是" + textBox4.Text + "\n很高興認識你");
         }
-
-        private void Hello_Load(object sender, EventArgs e)
-        {
-
-        }
-      
-
     }
 }
