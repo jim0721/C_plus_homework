@@ -43,19 +43,6 @@ namespace Lab_Form
             richTextBox2.Text="最高的成績為: " + Math.Max(chinese, Math.Max(english, math))+
             "\n最低的成績為: " + Math.Min(chinese, Math.Min(english, math));
             Console.WriteLine(english+chinese);
-        }
-
-
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void richTextBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-       
+        }       
     }
 }
